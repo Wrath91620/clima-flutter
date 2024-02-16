@@ -1,6 +1,7 @@
 # clima
 
-A new Flutter project.
+A Flutter Application that gives you the weather based on your location, the API is not working, regenerate API key. 
+
 
 ## Getting Started
 
